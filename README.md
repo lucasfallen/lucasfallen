@@ -1,7 +1,9 @@
 # Olá, eu sou o Lucas! 👋
 
 ## Sobre mim
-🎮 Sou um desenvolvedor Jr. apaixonado por tecnologia desde a adolescência. Comecei minha jornada movido pela paixão por jogos online e, desde então, tenho explorado e dominado diversas áreas da tecnologia.
+🎮 Sou um desenvolvedor Jr. e Sou analista de sistema/redes trabalho com soluções de integração, organização de rede, gestão de parque de máquinas, manutenção e update de máquinas entre outras mais... 
+Apaixonado por jogos, que foi onde despertei meu interesse por tecnologia aos 10 anos de idade. Sou um autodidata e boa parte do que sei aprendi através das comunidades, vídeos, matérias, estudos e cursos. 
+Dei início na minha carreira como Analista de infra aos 20 anos de idade quando entrei na empresa que estou atualmente, onde consegui adquirir muitos conhecimentos sobre diversos assuntos. 
 
 ## Habilidades Técnicas
 - **Linguagens e Frameworks**: PHP, NodeJS, Laravel, React, VueJs, Python, Java
@@ -19,7 +21,7 @@
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-pedrosa-blanco-129362253/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/arthrmrs)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/eupedrosa___)
 
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub de Arthur](https://github-readme-stats.vercel.app/api?username=lucasfallen&show_icons=true&theme=radical)
