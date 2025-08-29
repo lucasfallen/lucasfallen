@@ -3,7 +3,6 @@
 ## Sobre mim
 🎮 Sou um desenvolvedor Jr. e Sou analista de sistema/redes trabalho com soluções de integração, organização de rede, gestão de parque de máquinas, manutenção e update de máquinas entre outras mais... 
 Apaixonado por jogos, que foi onde despertei meu interesse por tecnologia aos 10 anos de idade. Sou um autodidata e boa parte do que sei aprendi através das comunidades, vídeos, matérias, estudos e cursos. 
-Dei início na minha carreira como Analista de infra aos 20 anos de idade quando entrei na empresa que estou atualmente, onde consegui adquirir muitos conhecimentos sobre diversos assuntos. 
 
 ## Minha Jornada
 🚀 Autodidata e sempre em busca de novos conhecimentos, comecei a explorar a tecnologia por conta própria ainda jovem. Minha curiosidade e paixão por aprender me levaram a dominar várias ferramentas e linguagens ao longo dos anos.
