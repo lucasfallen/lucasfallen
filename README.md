@@ -18,7 +18,7 @@
 🚀 Autodidata e sempre em busca de novos conhecimentos, comecei a explorar a tecnologia por conta própria ainda jovem. Minha curiosidade e paixão por aprender me levaram a dominar várias ferramentas e linguagens ao longo dos anos. Durante a época de 2005 a 2009, trabalhei com desenvolvimento de servidores privados para jogos online como Mu Online, Lineage 2, Ragnarok e World of Warcraft, utilizando tecnologias como Java, C++, MySQL e ferramentas de modding.
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/arthrmrs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-pedrosa-blanco-129362253/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/arthrmrs)
 
 ## Estatísticas do GitHub
