@@ -1,7 +1,7 @@
 # Olá, eu sou o Lucas! 👋
 
 ## Sobre mim
-🎮 Sou um desenvolvedor fullstack e arquiteto de soluções apaixonado por tecnologia desde a adolescência. Comecei minha jornada movido pela paixão por jogos online e, desde então, tenho explorado e dominado diversas áreas da tecnologia.
+🎮 Sou um desenvolvedor Jr. apaixonado por tecnologia desde a adolescência. Comecei minha jornada movido pela paixão por jogos online e, desde então, tenho explorado e dominado diversas áreas da tecnologia.
 
 ## Habilidades Técnicas
 - **Linguagens e Frameworks**: PHP, NodeJS, Laravel, React, VueJs, Python, Java
@@ -13,9 +13,6 @@
 - **Outras Tecnologias**: Arduino, PowerBI, RPA, Selenium
 - **Automação**: Criação de automações diversas para otimizar processos
 - **Refatoração**: Especialista em refatoração de aplicações legado PHP, garantindo melhorias de desempenho e manutenção
-
-## Projetos
-🔒 Participei de projetos desafiadores e inovadores, muitos deles em repositórios privados. Meu foco tem sido em criar soluções web robustas e eficientes, aproveitando ao máximo as tecnologias modernas.
 
 ## Minha Jornada
 🚀 Autodidata e sempre em busca de novos conhecimentos, comecei a explorar a tecnologia por conta própria ainda jovem. Minha curiosidade e paixão por aprender me levaram a dominar várias ferramentas e linguagens ao longo dos anos. Durante a época de 2005 a 2009, trabalhei com desenvolvimento de servidores privados para jogos online como Mu Online, Lineage 2, Ragnarok e World of Warcraft, utilizando tecnologias como Java, C++, MySQL e ferramentas de modding.
