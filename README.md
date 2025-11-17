@@ -9,7 +9,7 @@ Apaixonado por jogos, que foi onde despertei meu interesse por tecnologia aos 10
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-pedrosa-blanco-129362253/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/eupedrosa___)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/lupebl_)
 
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub de Arthur](https://github-readme-stats.vercel.app/api?username=lucasfallen&show_icons=true&theme=radical)
